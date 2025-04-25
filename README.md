@@ -3,7 +3,7 @@
 A playful React-based prototype for a mobile app with login, account creation, and settings, sprinkled with coder humor.
 
 ## Overview
-PopX-App is a dummy web application designed to simulate a mobile app experience. Built as a learning project by AyushVishu15, it features basic user authentication flows (login and account creation), an account settings page, and a touch of humor with coder-inspired quotes. It’s a great starting point for experimenting with React and Tailwind CSS in a mobile-first design.
+PopX-App is a dummy web application designed to simulate a mobile app experience. Built as a learning project by AyushVishu15, it features basic user authentication flows (login and account creation), an account settings page, and a touch of humor with coder-inspired quotes. It’s a great for experimenting with React and Tailwind CSS in a mobile design.
 
 ## Features
 - **Login Page**: Sign in with a humorous quote to set the mood.
