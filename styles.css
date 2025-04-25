@@ -1,0 +1,46 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #000;
+    overflow: hidden;
+  }
+  
+  #root {
+    width: 375px; /* Typical mobile width */
+    height: 667px; /* Typical mobile height */
+    background-color: #fff;
+    overflow-y: auto;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    position: relative;
+  }
+  
+  button, input {
+    cursor: pointer;
+  }
+  
+  .page-content {
+    min-height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px; /* General padding for content */
+  }
+  
+  .middle-button {
+    margin-top: auto;
+    margin-bottom: auto;
+    width: 90%;
+  }
+  
+  .bottom-button {
+    margin-top: auto;
+    width: 90%;
+    align-self: center;
+    margin-bottom: 0;
+  }
