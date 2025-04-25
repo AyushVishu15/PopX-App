@@ -19,11 +19,19 @@ PopX-App is a dummy web application designed to simulate a mobile app experience
 
 ## Screenshots
 
-![image](https://github.com/user-attachments/assets/5d55af5c-2b5a-4ea3-b818-189e80e504e7)
-![image](https://github.com/user-attachments/assets/2c11b08c-1992-4677-a9dc-686de56fe736)
-![image](https://github.com/user-attachments/assets/b8ddb53a-9200-4b69-8b2a-9375630d05c7)
-![image](https://github.com/user-attachments/assets/2f48a52a-8f22-4fca-abb5-b7839eb4e998)
-![image](https://github.com/user-attachments/assets/11d2fb77-8ca5-4ab2-949b-50d88b8441a5)
+![image](https://github.com/user-attachments/assets/5d55af5c-2b5a-4ea3-b818-189e80e504e7)      ![image](https://github.com/user-attachments/assets/2c11b08c-1992-4677-a9dc-686de56fe736)
+![image](https://github.com/user-attachments/assets/b8ddb53a-9200-4b69-8b2a-9375630d05c7)      ![image](https://github.com/user-attachments/assets/2f48a52a-8f22-4fca-abb5-b7839eb4e998)
+                                          ![image](https://github.com/user-attachments/assets/11d2fb77-8ca5-4ab2-949b-50d88b8441a5)
+
+
+
+
+
+
+
+
+
+
 
 
 
